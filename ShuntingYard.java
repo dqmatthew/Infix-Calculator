@@ -1,9 +1,3 @@
-/* Author: Matthew Deng
- * Course: CSC 172
- * Lab Session: MW 1525-1640
- * Lab Assignment: Project 2
- * Date: Feb. 20th, 2016
- */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
